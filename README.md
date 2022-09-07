@@ -1,6 +1,6 @@
-# Music streaming app
+# Groove
 
-A new Flutter project.
+A music streamming app.
 
 ## Getting Started
 
